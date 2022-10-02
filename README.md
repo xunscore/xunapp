@@ -1,2 +1,12 @@
-# xunapp-
-XunScore is a music notation software, let you easily create and share sheet music. The editor is called "xūn", is hoping it will be a better balance between the Chinese national music, more fit for our use. 
+
+About XunScore
+
+XunScore is a music notation software, let you easily create and share sheet music. The editor is called "xūn", is hoping it will be a better balance between the Chinese national music, more fit for our use.
+
+Xun is an globular wind instrument. It is initially made of baked clay or bone, and later of ceramic. People in ancient times used this instrument to imitate birds' sound and ensnare them. The oldest xun that has been discovered in China up to now was made about six to seven thousands years ago. The sound of xun is endowed with emotional human feelings, like as the innocence of remote antiquity times and the pathos of desolation.
+
+Version: 1.3.11.04
+
+Copyright (C) 2020-2022 XunScore contributors. All rights reserved.
+
+This product has been created by LeyaoShu, incorporating many modifications from different contributors, see www.xunscore.cn for more details. 
